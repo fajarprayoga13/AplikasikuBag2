@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AplikasikuBag2</string>
+    <string name="nama">Nama</string>
+    <string name="semester">Semester</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="tampilkan">Tampilkan</string>
+    <string name="hasil"></string>
+    <string name="hasil2"></string>
+    <string name="hasil3"></string>
+    <string name="hasil4"></string>
+    <string name="hasil5"></string>
+</resources>
